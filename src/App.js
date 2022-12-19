@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import SearchForm from "./SearchForm";
 import "bootstrap/dist/css/bootstrap.css";
